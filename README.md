@@ -1,16 +1,15 @@
 # flutter_designcustom
 
-A new Flutter project.
+Ini adalah dokumentasi untuk proyek **Design Custom**. Berikut adalah screenshot aplikasi:
+
+![Screenshot Aplikasi](assets/HomePage.png)
+![Screenshot Aplikasi](assets/ProfilePage.png)
+![Screenshot Aplikasi](assets/Transaksi_Page.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Fitur
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Adanya fitur Transfer, Topup, Pembayaran, dan Promo
+2. Riwayat Transaksi, dan pencarian untuk Riwayat transaksi 
+3. Serta fitur Keamanan akun, dan Setting akun, juga ada tombol login dan logout
